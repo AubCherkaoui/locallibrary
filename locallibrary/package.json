@@ -1,0 +1,10 @@
+{
+    
+    "scripts": {
+        "build": "postcss static/css/main.css -o static/css/main.min.css --watch"
+        
+    },
+    "dependencies": {
+        "npm-watch": "^0.11.0"
+    }
+}
